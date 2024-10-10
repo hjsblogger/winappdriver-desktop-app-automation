@@ -14,6 +14,8 @@ concurrency: 2
 
 captureScreenRecordingForScenarios: true
 
+scenarioCommandStatusOnly: true
+
 env:
   # PAT: ${{ .secrets.testKey }}
   CACHE_DIR: m2_cache_dir
