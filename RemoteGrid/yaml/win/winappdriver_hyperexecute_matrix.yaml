@@ -12,6 +12,7 @@ concurrency: 2
 
 captureScreenRecordingForScenarios: true
 
+# https://www.lambdatest.com/support/docs/deep-dive-into-hyperexecute-yaml/#scenariocommandstatusonly
 scenarioCommandStatusOnly: true
 
 env:
